@@ -5,7 +5,7 @@
    ##### Turned the design of [X - Visual Exploration - 3 by Faria](https://dribbble.com/shots/4525896-X-Visual-Exploration-3) from dribble to live code.
 --   
 **Screenshot of Design**
-   [![Design by Faria](https://dribbble.com/shots/4525896-X-Visual-Exploration-3/attachments/1024684)](https://dribbble.com/shots/4525896-X-Visual-Exploration-3/attachments/1024684)
+   [![Design by Faria](https://cdn.dribbble.com/users/1011159/screenshots/4525896/attachments/1024684/attachment_1.jpg)](https://dribbble.com/shots/4525896-X-Visual-Exploration-3/attachments/10246)
 
 **Screenshot of Code**   
   ![day2](https://github.com/Supriya-shashivasan/DesignToCode/blob/master/Day2/img/day2.png)
