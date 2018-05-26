@@ -1,0 +1,141 @@
+html, body {
+  background-color: #fff !important;
+  color: black;
+  font-family: 'Muli', sans-serif;
+  padding: 0px }
+
+ * {
+  box-sizing: border-box; 
+}
+
+.header{
+	height: 40px;
+	padding: 70px 70px 10px 70px ;
+}
+.fas{
+	font-size: 30px;
+}
+.name{
+	font-size: 60px;
+	font-weight:900 ;
+	padding-top: 70px;
+	margin :0;
+}
+.profession{
+	font-size: 30px;
+	font-weight: 700;
+	color: #9aa4b7;
+	margin: 0;
+	padding-top: 20px;
+}
+.profile-data{
+	display: flex;
+	padding: 20px;
+	justify-content: space-between;
+}
+.friends{
+	width: 200px;
+	height : 200px;
+	padding-top: 60px;
+}
+.clients{
+	width: 200px;
+	height : 300px;
+	padding-top: 60px;
+}
+.count{
+	font-size: 40px;
+	font-weight: 900;
+	color: #697797
+}
+.person-type{
+	font-size: 28px;
+	font-weight: 900;
+	color: #9aa4b7;
+	margin: 0;
+}
+img#profile-pic{
+	width: 300px;
+	height: 300px;
+	border-radius: 400px;
+}
+.menu{
+	padding:  10px 80px;
+	display: flex;
+	justify-content: space-between;
+}
+.nav_right {
+    margin-left:auto;
+	position: relative;
+}
+.fa-th, .fa-bars, .fa-plus{
+	margin: 0;
+	font-size: 50px;
+
+}
+.images{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 20px 80px;
+	justify-content: space-between;
+	margin-bottom: 250px;
+}
+
+.image{
+  max-width: calc(50% - 20px);
+  width: 100%;
+  margin: 10px 0px;
+}
+
+.image img{
+	width: 100%;
+	border-radius: 30px;
+
+}
+.options{
+	display: flex;
+	justify-content: space-between;
+	padding: 75px 80px;
+}
+
+.fa-th-large , .fa-compass{
+	color: white;
+	font-size: 60px;
+}
+footer{
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	background-color: #333842;
+	border-radius: 50px 50px 0 0 ;
+}
+
+.like{
+	position: absolute;
+	top: -100px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	z-index: 99999;
+	text-align: center;;
+	width: 175px;
+	height: 175px;
+	background: rgba(256,256,256,.5);
+	padding: 12.5px;
+	border-radius: 100px;
+}
+a#like-button{
+	display: block;
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	background-color: #fff; 
+	text-align: center;
+}
+
+a#like-button i{ 
+	color: red; 
+	height: 150px;
+	font-size: 60px;
+	line-height: 160px;
+}

@@ -1,0 +1,103 @@
+html, body {
+  background-color: #151921 !important;
+  color: #fff;
+  font-family: 'Lato';
+  padding: 0px }
+
+ * {
+  box-sizing: border-box; 
+}
+.header{
+	display: flex;
+	height: 40px;
+	padding: 50px;
+}
+.nav_right {
+  margin-left:auto;
+	position: relative;
+}
+
+img#profile{
+	border-radius: 60px 0px 60px 60px;
+	height: 120px;
+	margin: 20px;
+}
+
+#ping{
+	content: 'asdas';
+	color: #fff!important;
+	position: absolute;
+	z-index: 1000;
+	width: 30px;
+	height: 30px;
+	display: block;
+	background: yellow;
+	right: 20px;
+	bottom: 10px;
+	border-radius: 100px;
+}
+
+.fas{
+	padding: 30px;
+	font-size: 40px;
+	
+}
+.content{
+	padding-left: 70px;
+	padding-right: 70px;
+}
+.name{
+	font-size: 60px;
+}
+.taskscount{
+	font-size: 30px;
+	color: #c0c1c4;
+}
+header{
+	padding: 20px;
+}
+.board{
+	display: flex;
+	flex-wrap: wrap;
+	/*justify-content: space-between;*/
+}
+a.card {
+  max-width: calc(50% - 40px) ;
+  margin: 20px;
+  width: 100%;
+  height: 300px;
+  background-color: #37334d!important;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+ a.card .icon {
+ 	font-size: 50px;
+ }
+
+ a.card .card-type{
+ 	padding-top :40px;
+ 	font-size: 20px;
+ }
+ a.card .footer{
+ 	padding-top: 20px;
+ 	font-size: 20px;
+ 	color: #c0c1c4;
+ 
+ }
+ a.click{
+ 	margin: 20px;
+	background-color: #2a54ed !important;
+	border-radius: 20px;
+	width: 20%;
+	color: white;
+	font-size: 50px;
+	border: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+ }
+
+ a{
+ 	text-decoration: none;
+ }
