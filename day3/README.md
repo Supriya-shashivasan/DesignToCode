@@ -8,9 +8,9 @@
    [![Design by Faria](https://cdn.dribbble.com/users/1840023/screenshots/4631134/attachments/1046719/dribbble_lg___2x_1.png)](https://dribbble.com/shots/4631134-Contemporary-Design-Gallery)
 
 **Screenshot of Code**   
-  ![day3](https://github.com/Supriya-shashivasan/DesignToCode/blob/master/Day2/img/day2.png)
+  ![day3](https://github.com/Supriya-shashivasan/DesignToCode/blob/master/day3/img/day3.png)
 
 
-Image source: profile : Ayla Cornell from [UIfaces](uifaces.co)
+Image source: profile : Mac products [Unsplash](unsplash.com)
 
 
