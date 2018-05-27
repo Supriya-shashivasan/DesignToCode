@@ -66,11 +66,11 @@ input,select,textarea,button{
 .product.right{
 	display: flex;
 	flex-direction: column;
-	height: 80vh;
+	height: 675px;
 }
 .product img{
 	width: 100%;
-	height: 450px;
+	height: 600px;
 }
 .product-details{
 	padding-right: 100px;
@@ -80,6 +80,7 @@ input,select,textarea,button{
 	margin-bottom: 0px;
 	padding-top: 70px;
 	font-size: 60px;
+	color: #33363b;
 }
 .product-tagline{
 	color: #bdbfc0;
@@ -97,13 +98,14 @@ input,select,textarea,button{
 	font-weight: 500;
 }
 button.buy{
-	border: 2px solid #151d0e;
+	border: 2px solid #33363b;
 	width: 200px;
-	height: 40px;
+	height: 48px;
 	position: relative;
 	margin-left: 65px;
 	background: #fff;
 	color: #bdbfc0;
+	font-size: 18px;
 }
 
 button.buy:before{
@@ -113,11 +115,12 @@ button.buy:before{
 	top: -2px;
 	width: 65px;
 	height: 100%;
-	background: #151d0e;
+	background: #33363b;
 	color: #fff;
-	border: 2px solid #151d0e;
+	border: 2px solid #33363b;
 	font-size: 25px;
-	line-height: 35px;
+	line-height: 38px;
+	font-weight: bold;
 }
 
 .img-names{
@@ -161,13 +164,13 @@ a{
 	margin: 10px 20px;
 }
 .active{
-	color: #151d0e;
+	color: #33363b;
 }
 .active-top{
-	border-right: 4px solid yellow;
+	border-right: 4px solid #ffcc64;
 }
 .active-bottom{
-		border-bottom: 4px solid yellow;
+		border-bottom: 4px solid #ffcc64;
 }
 #ping{
 	content: 'asdas';
@@ -177,7 +180,7 @@ a{
 	width: 10px;
 	height: 10px;
 	display: block;
-	background: yellow;
+	background: #ffcc64;
 	right: 85px;
 	top: 45px;
 	border-radius: 5px;
