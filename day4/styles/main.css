@@ -1,0 +1,176 @@
+html,body{
+	padding: 0;
+ 	background: #ED4264;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #13508f, #1e5da2,#409ec4);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #13508f, #1e5da2,#409ec4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	font-family: 'Open Sans', sans-serif;
+}
+* {
+  box-sizing: border-box; 
+}
+input,button{
+		font-family: 'Open Sans', sans-serif;
+}
+
+.main{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.product{
+	max-width: 800px;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.col{
+	flex: 1;
+	background-color: #fff;
+	min-height: 525px;
+}
+.shoe{
+	box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, .2);
+	border-radius: 10px 0 0 10px;
+	position: relative;
+	width: 40%;
+	background-color: white;
+}
+.purchase{
+	box-shadow:  0px 0px 10px 2px rgba(0, 0, 0,0.2);
+	border-radius: 10px;
+	position: relative;
+	width : 60%;
+	transform: scale(1.15);
+}
+.number p{
+	color: rgba(193, 198, 204, .2);
+	font-size: 150px;
+	font-weight: 900;
+	margin-top: 0;
+	padding-top: 0;
+	padding-bottom: 0: 
+}
+.number{
+	position: absolute;
+	left: -8px;
+	right: -10px;
+	top: -50px;
+	bottom: -50px;
+}
+.arrow{
+	left:60px;
+	margin: 50px;
+	float: right;
+	color: grey;
+}
+.about{
+	padding: 20px 20px;
+	position: absolute;
+	top: 20%;
+}
+.desc p{
+	color: #a5aaaf;
+	font-size: 20px;
+	font-weight: 500;
+}
+.price{
+	color: black;
+	font-size: 40px;
+	font-weight: 900;
+	margin-top: 10px;
+}
+.form{
+	padding: 40px;
+
+}
+.header{
+	font-size: 20px;
+	font-weight: 700;
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 5px 10px;
+    border: none;
+    border-bottom: 2px solid #a5aaaf;
+}
+label{
+	font-weight: 300;
+	font-size: 10px;
+	color: #a5aaaf;
+}
+.sub-section{
+	display: flex;
+	justify-content: space-between;
+}
+.section{
+	width: 30%;
+}
+button{
+	padding: 10px;
+	width: 120px;
+	height: 40px;
+	position: absolute;
+	bottom: 60px;
+	right: 30px;
+	border-radius: 10px;
+	background-color: #d54c3a;
+	border : none;
+	color: white;
+}
+.icons{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	position: absolute;
+	right: -35px;
+	top: 10px;
+}
+.icons a{
+	text-decoration : none;
+	
+
+}
+.icon{
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 30px;
+	box-shadow:  0px 0px 10px 2px rgba(0, 0, 0,0.2);
+	background-color: white;
+}
+.active 	{
+	background-color: #2998d0;
+}
+.fa-credit-card , .fa-money-bill-alt , .fa-university{
+	color: #a5aaaf;
+	background-color: white;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.fa-check-square, .fa-question-circle{
+	color: green;
+	/*font-family: 'Open Sans', sans-serif;*/
+
+}
+.image{
+	position: absolute;
+	width: 350px;
+	height: 250px;
+	bottom: -70px;
+	left: -50px;
+}
+.image img{
+	width: 100%;
+	height: 100%;
+}
+.visa{
+	position: absolute;
+	right: 50px;
+	bottom: 280px;
+	font-size: 20px;
+}
+.visa i{
+	color: blue;
+}
