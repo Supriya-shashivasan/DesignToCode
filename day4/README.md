@@ -5,7 +5,7 @@
    ##### Turned the design of [Product Page by Asmita Deshmukh](https://www.uplabs.com/posts/daily-ui-challenge-002-interface) from uplabs to live code.
 --   
 **Screenshot of Design**
-   [![Product Page by Asmita Deshmukh](https://assets.materialup.com/uploads/00619eeb-cf64-4de3-8dbd-4d744bbb07d3/preview.jpg)](https://www.uplabs.com/posts/daily-ui-challenge-002-interface)
+   [Product Page by Asmita Deshmukh](https://www.uplabs.com/posts/daily-ui-challenge-002-interface)
 
 **Screenshot of Code**   
   ![day4](https://github.com/Supriya-shashivasan/DesignToCode/blob/master/day4/img/day4.png)
