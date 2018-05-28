@@ -50,7 +50,7 @@ input,button{
 	font-weight: 900;
 	margin-top: 0;
 	padding-top: 0;
-	padding-bottom: 0: 
+	padding-bottom: 0; 
 }
 .number{
 	position: absolute;
@@ -76,7 +76,7 @@ input,button{
 	font-weight: 500;
 }
 .price{
-	color: black;
+	color: #242424;
 	font-size: 40px;
 	font-weight: 900;
 	margin-top: 10px;
@@ -93,7 +93,7 @@ input[type=text], input[type=password] {
     width: 100%;
     padding: 5px 10px;
     border: none;
-    border-bottom: 2px solid #a5aaaf;
+    border-bottom: 1px solid #d9d9d9;
 }
 label{
 	font-weight: 300;
@@ -140,12 +140,9 @@ button{
 	box-shadow:  0px 0px 10px 2px rgba(0, 0, 0,0.2);
 	background-color: white;
 }
-.active 	{
-	background-color: #2998d0;
-}
 .fa-credit-card , .fa-money-bill-alt , .fa-university{
 	color: #a5aaaf;
-	background-color: white;
+	/*background-color: white;*/
 	margin-top: 0;
 	margin-bottom: 0;
 }
@@ -154,6 +151,9 @@ button{
 	/*font-family: 'Open Sans', sans-serif;*/
 
 }
+.fa-check-square{
+	font-size: 15px;
+}
 .image{
 	position: absolute;
 	width: 350px;
@@ -161,6 +161,14 @@ button{
 	bottom: -70px;
 	left: -50px;
 }
+
+.icons .active{
+	background-color: #2998d0;
+}
+.icons .active i{
+	color: white!important;
+}
+
 .image img{
 	width: 100%;
 	height: 100%;
@@ -173,4 +181,7 @@ button{
 }
 .visa i{
 	color: blue;
+}
+.checkbox{
+	font-size: 15px;
 }
