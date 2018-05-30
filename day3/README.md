@@ -1,7 +1,7 @@
 # DesignToCode
    A 15 days challenge I gave myself to improve my frontend development skills. Recently I took a course on [Freecodecamp](https://www.freecodecamp.org/) to learn frontend development. This way to convert design tocode is a great way to learn, hence my 15 days midnight challenge begins.
    
-#### Day 2
+#### Day 3
    ##### Turned the design of [Contemporary Design Gallery by Darion Mitchell](https://dribbble.com/shots/4631134-Contemporary-Design-Gallery) from dribble to live code.
 --   
 **Screenshot of Design**
