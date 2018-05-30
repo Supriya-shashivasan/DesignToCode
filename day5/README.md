@@ -5,10 +5,10 @@
    ##### Turned the design of [Fluent design drive by Kalesh](https://dribbble.com/shots/4121514-Fluent-design-drive) from uplabs to live code.
 --   
 **Screenshot of Design**
-     [Fluent design drive by Kalesh](https://cdn.dribbble.com/users/1131400/screenshots/4121514/attachments/943356/shot_-_hd.png)](https://dribbble.com/shots/4121514-Fluent-design-drive)
+     [![Fluent design drive by Kalesh](https://cdn.dribbble.com/users/1131400/screenshots/4121514/attachments/943356/shot_-_hd.png)](https://dribbble.com/shots/4121514-Fluent-design-drive)
 
 **Screenshot of Code**   
-  ![day5](https://github.com/Supriya-shashivasan/DesignToCode/blob/master/day4/img/day4.png)
+  ![day5](https://github.com/Supriya-shashivasan/DesignToCode/blob/master/day5/img/day5.png)
 
 
 
